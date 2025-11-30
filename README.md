@@ -1,4 +1,4 @@
-
+//Duso
 # SchoolBase
 
 A comprehensive school management application built with Flutter that enables efficient attendance tracking, NFC card management, and role-based access control for admins, teachers, and gatemen.
